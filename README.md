@@ -29,7 +29,7 @@ MauiBlazorTailwind.sln
 ## Getting started
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Krisantha-VS/MAUI-Template-With-Tailwind.git
 cd MAUI-Template-With-Tailwind
 ```
 
